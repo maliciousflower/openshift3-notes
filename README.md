@@ -12,7 +12,7 @@
 * ## delete all completly from project
      oc delete all --all
 
-* ## after delete all delete project
+* ## delete a project
      oc delete project <project_name>
 
 * ## set env for all pods
